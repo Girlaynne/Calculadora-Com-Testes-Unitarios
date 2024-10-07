@@ -1,0 +1,14 @@
+C:\Users\Familia Goncalves\Documents\Programação\DIO - Projetos\Desafio Calculadora\CalculadoraConsole\bin\Debug\net8.0\CalculadoraConsole.exe
+C:\Users\Familia Goncalves\Documents\Programação\DIO - Projetos\Desafio Calculadora\CalculadoraConsole\bin\Debug\net8.0\CalculadoraConsole.deps.json
+C:\Users\Familia Goncalves\Documents\Programação\DIO - Projetos\Desafio Calculadora\CalculadoraConsole\bin\Debug\net8.0\CalculadoraConsole.runtimeconfig.json
+C:\Users\Familia Goncalves\Documents\Programação\DIO - Projetos\Desafio Calculadora\CalculadoraConsole\bin\Debug\net8.0\CalculadoraConsole.dll
+C:\Users\Familia Goncalves\Documents\Programação\DIO - Projetos\Desafio Calculadora\CalculadoraConsole\bin\Debug\net8.0\CalculadoraConsole.pdb
+C:\Users\Familia Goncalves\Documents\Programação\DIO - Projetos\Desafio Calculadora\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia Goncalves\Documents\Programação\DIO - Projetos\Desafio Calculadora\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.AssemblyInfoInputs.cache
+C:\Users\Familia Goncalves\Documents\Programação\DIO - Projetos\Desafio Calculadora\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.AssemblyInfo.cs
+C:\Users\Familia Goncalves\Documents\Programação\DIO - Projetos\Desafio Calculadora\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.csproj.CoreCompileInputs.cache
+C:\Users\Familia Goncalves\Documents\Programação\DIO - Projetos\Desafio Calculadora\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.dll
+C:\Users\Familia Goncalves\Documents\Programação\DIO - Projetos\Desafio Calculadora\CalculadoraConsole\obj\Debug\net8.0\refint\CalculadoraConsole.dll
+C:\Users\Familia Goncalves\Documents\Programação\DIO - Projetos\Desafio Calculadora\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.pdb
+C:\Users\Familia Goncalves\Documents\Programação\DIO - Projetos\Desafio Calculadora\CalculadoraConsole\obj\Debug\net8.0\CalculadoraConsole.genruntimeconfig.cache
+C:\Users\Familia Goncalves\Documents\Programação\DIO - Projetos\Desafio Calculadora\CalculadoraConsole\obj\Debug\net8.0\ref\CalculadoraConsole.dll
